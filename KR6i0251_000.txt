@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 坐禪三昧經
+#+DATE: 2015-08-30 20:14:03.494782
+#+PROPERTY: JUAN 0
